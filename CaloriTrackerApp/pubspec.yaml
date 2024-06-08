@@ -1,0 +1,54 @@
+name: odevson1
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/images/breakfast.jpg
+    - lib/assets/images/snack1.jpg
+    - lib/assets/images/lunch.jpg
+    - lib/assets/images/snack2.jpg
+    - lib/assets/images/dinner.jpg
+    - lib/assets/images/egg.jpg
+    - lib/assets/images/bread.jpg
+    - lib/assets/images/fruit.jpg
+    - lib/assets/images/nuts.jpg
+    - lib/assets/images/rice.jpg
+    - lib/assets/images/chicken.jpg
+    - lib/assets/images/yoghurt.jpg
+    - lib/assets/images/biscuit.jpg
+    - lib/assets/images/salad.jpg
+    - lib/assets/images/fish.jpg
+    - lib/assets/images/adanakebab.jpg
+    - lib/assets/images/sushi.jpg
+    - lib/assets/images/hamburger.jpg
+    - lib/assets/images/pizza.jpg
+    - lib/assets/images/kuru üzüm.jpg
+    - lib/assets/images/elma.jpg
+    - lib/assets/images/kahve.jpg
+    - lib/assets/images/havuc.jpg
+    - lib/assets/images/elma.jpg
+    - lib/assets/images/bal.jpg
+    - lib/assets/images/zeytin.jpg
+    - lib/assets/images/cay.jpg
+    - lib/assets/images/domates.jpg
+    - lib/assets/images/salam.jpg
+    - lib/assets/images/tavk.jpg
+          
+          
